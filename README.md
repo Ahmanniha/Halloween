@@ -1,5 +1,4 @@
- 
-
+![Build status badge](https://github.com/ahmanniha/halloweeeeeen/workflows/MakeCode/badge.svg)
 
 > Open this page at [https://ahmanniha.github.io/Halloweeeeeen/](https://ahmanniha.github.io/Halloweeeeeen/)
 
@@ -12,7 +11,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/ahmanniha/halloweeeeeen** and import
 
-## Edit this project ![Build status badge](https://github.com/ahmanniha/halloweeeeeen/workflows/MakeCode/badge.svg)
+## Edit this project
 
 To edit this repository in MakeCode.
 
