@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://ahmanniha.github.io/halloweeeeeen/](https://ahmanniha.github.io/halloweeeeeen/)
+> Open this page at [https://ahmanniha.github.io/Halloweeeeeen/](https://ahmanniha.github.io/Halloweeeeeen/)
 
 ## Use as Extension
 
