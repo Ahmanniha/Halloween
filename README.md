@@ -1,6 +1,6 @@
 ![Build status badge](https://github.com/ahmanniha/halloween/workflows/MakeCode/badge.svg)
 
-> Open this page at [https://ahmanniha.github.io/Halloweeeeeen/](https://ahmanniha.github.io/halloween/)
+> Open this page at [https://ahmanniha.github.io/halloween/](https://ahmanniha.github.io/halloween/)
 
 ## Use as Extension
 
