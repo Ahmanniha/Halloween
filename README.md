@@ -1,1 +1,1 @@
-Halloween-themed TypeScript game demonstrating player movement, collision detection, enemies, projectiles, and scoring.
+Halloween-themed TypeScript game demonstrating player movement, enemies, projectiles, and scoring.
